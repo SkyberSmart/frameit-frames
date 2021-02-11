@@ -1,5 +1,17 @@
 {
   "portrait": {
+    "Android Tablet 7 Inch Generic": {
+      "offset": "+114+111",
+      "width": 1200
+    },
+    "Android Tablet 10 Inch Generic": {
+      "offset": "+114+111",
+      "width": 1600
+    },
+    "Google Pixel 2 XL": {
+      "offset": "+86+242",
+      "width": 1440
+    },
     "Google Pixel 3": {
       "offset": "+55+199",
       "width": 1080
@@ -136,8 +148,8 @@
       "offset": "+95+100",
       "width": 1668
     },
-    "iPad Pro (12.9 inch) (3rd generation)": {
-      "offset": "+96+102",
+    "iPad Pro (12.9-inch) (3rd generation)": {
+      "offset": "+119+216",
       "width": 2048
     },
     "iPad Air 2": {
